@@ -45,9 +45,6 @@ The dataset contains behavioral and lifestyle attributes of teenagers, including
 
 The models were able to identify patterns between social media usage, sleep, and mental health. Random Forest performed better in predicting high-risk individuals compared to Logistic Regression.
 
-## ⚠️ Disclaimer
-
-This project is for educational purposes only and does not provide medical or psychological advice.
 
 ## 👥 Team Members
 
