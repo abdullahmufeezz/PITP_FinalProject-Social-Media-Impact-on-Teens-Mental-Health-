@@ -50,7 +50,7 @@ The models were able to identify patterns between social media usage, sleep, and
 
 * Muhammad Abdullah Mufeez(32)
 * Muhammad Jon Abbas (39)
-* Muhammad Muzzamil Ansari (52)
+* Muzammil Ahmed Ansari (52)
 * Mateen Qureshi (43)
 
 ## 🔗 Links
